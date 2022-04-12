@@ -1,0 +1,324 @@
+%!Adobe-FontList 1.20
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ImcreSoojinOTFRegular
+FamilyName:ImcreSoojin OTF
+StyleName:Regular
+FullName:ImcreSoojin OTF Regular
+MenuName:아임크리수진 OTF
+StyleBits:0
+FamilyNameNative:아임크리수진 OTF
+StyleNameNative:Regular
+FullNameNative:아임크리수진 OTF Regular
+WritingScript:Korean
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\ImcreSoojin OTF.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1068428
+FileModTime:1597968462
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,ImcreSoojin OTF Regular
+NameArray:3,Mac,4,아임크리수진 OTF Regular
+NameArray:0,Win,1,ImcreSoojin OTF
+NameArray:0,Win,16,ImcreSoojin OTF
+NameArray:3,Win,1,아임크리수진 OTF
+NameArray:3,Win,16,아임크리수진 OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquare_acB
+FamilyName:NanumSquare_ac
+StyleName:Bold
+FullName:NanumSquare_ac Bold
+MenuName:나눔스퀘어_ac Bold
+StyleBits:0
+FamilyNameNative:나눔스퀘어_ac
+StyleNameNative:Bold
+FullNameNative:나눔스퀘어_ac Bold
+WritingScript:Korean
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\NanumSquare_acB.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:640036
+FileModTime:1509008900
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare_ac Bold
+NameArray:3,Mac,4,나눔스퀘어_ac Bold
+NameArray:0,Win,1,NanumSquare_ac Bold
+NameArray:0,Win,16,NanumSquare_ac
+NameArray:3,Win,1,나눔스퀘어_ac Bold
+NameArray:3,Win,16,나눔스퀘어_ac
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquare_acEB
+FamilyName:NanumSquare_ac
+StyleName:ExtraBold
+FullName:NanumSquare_ac ExtraBold
+MenuName:나눔스퀘어_ac ExtraBold
+StyleBits:0
+FamilyNameNative:나눔스퀘어_ac
+StyleNameNative:ExtraBold
+FullNameNative:나눔스퀘어_ac ExtraBold
+WritingScript:Korean
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\NanumSquare_acEB.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:633248
+FileModTime:1509008892
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare_ac ExtraBold
+NameArray:3,Mac,4,나눔스퀘어_ac ExtraBold
+NameArray:0,Win,1,NanumSquare_ac ExtraBold
+NameArray:0,Win,16,NanumSquare_ac
+NameArray:3,Win,1,나눔스퀘어_ac ExtraBold
+NameArray:3,Win,16,나눔스퀘어_ac
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquare_acL
+FamilyName:NanumSquare_ac
+StyleName:Light
+FullName:NanumSquare_ac Light
+MenuName:나눔스퀘어_ac Light
+StyleBits:0
+FamilyNameNative:나눔스퀘어_ac
+StyleNameNative:Light
+FullNameNative:나눔스퀘어_ac Light
+WritingScript:Korean
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\NanumSquare_acL.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:657488
+FileModTime:1509008884
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare_ac Light
+NameArray:3,Mac,4,나눔스퀘어_ac Light
+NameArray:0,Win,1,NanumSquare_ac Light
+NameArray:0,Win,16,NanumSquare_ac
+NameArray:3,Win,1,나눔스퀘어_ac Light
+NameArray:3,Win,16,나눔스퀘어_ac
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquare_acR
+FamilyName:NanumSquare_ac
+StyleName:Regular
+FullName:NanumSquare_ac Regular
+MenuName:나눔스퀘어_ac
+StyleBits:0
+FamilyNameNative:나눔스퀘어_ac
+StyleNameNative:Regular
+FullNameNative:나눔스퀘어_ac Regular
+WritingScript:Korean
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\NanumSquare_acR.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:646720
+FileModTime:1509008908
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare_ac Regular
+NameArray:3,Mac,4,나눔스퀘어_ac Regular
+NameArray:3,Mac,18,나눔스퀘어_ac
+NameArray:0,Win,1,NanumSquare_ac
+NameArray:0,Win,16,NanumSquare_ac
+NameArray:3,Win,1,나눔스퀘어_ac
+NameArray:3,Win,16,나눔스퀘어_ac
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Black
+FamilyName:Noto Sans KR
+StyleName:Black
+FullName:Noto Sans KR Black
+MenuName:Noto Sans KR Black
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Black
+FullNameNative:Noto Sans KR Black
+WritingScript:Korean
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\NotoSansKR-Black.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2527996
+FileModTime:1517756400
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Black
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Bold
+FamilyName:Noto Sans KR
+StyleName:Bold
+FullName:Noto Sans KR Bold
+MenuName:Noto Sans KR Bold
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Bold
+FullNameNative:Noto Sans KR Bold
+WritingScript:Korean
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\NotoSansKR-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2334176
+FileModTime:1517756400
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Bold
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Light
+FamilyName:Noto Sans KR
+StyleName:Light
+FullName:Noto Sans KR Light
+MenuName:Noto Sans KR Light
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Light
+FullNameNative:Noto Sans KR Light
+WritingScript:Korean
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\NotoSansKR-Light.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2245744
+FileModTime:1517756400
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Light
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Medium
+FamilyName:Noto Sans KR
+StyleName:Medium
+FullName:Noto Sans KR Medium
+MenuName:Noto Sans KR Medium
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Medium
+FullNameNative:Noto Sans KR Medium
+WritingScript:Korean
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\NotoSansKR-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2230732
+FileModTime:1517756400
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Medium
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Regular
+FamilyName:Noto Sans KR
+StyleName:Regular
+FullName:Noto Sans KR
+MenuName:Noto Sans KR Regular
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Regular
+FullNameNative:Noto Sans KR Regular
+WritingScript:Korean
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\NotoSansKR-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2227620
+FileModTime:1517756400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Regular
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Thin
+FamilyName:Noto Sans KR
+StyleName:Thin
+FullName:Noto Sans KR Thin
+MenuName:Noto Sans KR Thin
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Thin
+FullNameNative:Noto Sans KR Thin
+WritingScript:Korean
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\NotoSansKR-Thin.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2265712
+FileModTime:1517756400
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Thin
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Administrator\Desktop\리뉴얼 사이트 기획\Font\OFL.txt
+FileModTime:1517756400
+%EndFont
+

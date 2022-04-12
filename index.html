@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>썬키스트 홈페이지 리뉴얼</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/sunkist.css">
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/opacityAnimate.js"></script>
+  </head>
+  <body>
+    <div id="headerWrap">
+    <header id="header">
+      <h1>
+        <a href="#">
+          <img src="images/logo.png" alt="Sunkist logo">
+        </a>
+      </h1>
+    <nav id="gnb">
+      <h2 class="hidden">주요상단메뉴</h2>
+      <ul>
+        <li>
+          <a href="#">제품소개</a>
+          <ul class="snb">
+            <li><a href="item(orange).html">오렌지</a></li>
+            <li><a href="item(lemon).html">레몬</a></li>
+            <li><a href="item(rime).html">라임</a></li>
+            <li><a href="item(grapefruit).html">자몽</a></li>
+            <li><a href="item(tangerine).html">탄제린 & 탄젤로</a></li>
+            <li><a href="item(mandarin).html">만다린</a></li>
+          </ul>
+        </li>
+        <li><a href="#">브랜드 소개</a>
+          <ul class="snb">
+            <li><a href="sunkistStory.html">썬키스트 이야기</a></li>
+            <li><a href="#">보도자료</a></li>
+            <li><a href="#">상표등록 기업</a></li>
+            <li><a href="#">품종별 생산 시즌</a></li>
+          </ul>
+        </li>
+        <li><a href="#">레시피 소개</a>
+          <ul class="snb">
+            <li><a href="#">레시피</a></li>
+          </ul>
+        </li>
+        <li><a href="#">건강한 생활</a>
+          <ul class="snb">
+            <li><a href="#">home</a></li>
+            <li><a href="#">health</a></li>
+            <li><a href="#">beauty</a></li>
+          </ul>
+        </li>
+        <li><a href="#">고객센터</a>
+          <ul class="snb">
+            <li><a href="#">자주묻는질문</a></li>
+            <li><a href="#">1:1문의</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    </header>
+  </div>
+    <section id="sliderWrap">
+      <div id="slider">
+      <h2 class="hidden">슬라이더 메뉴</h2>
+      <ul id="sliderList">
+      <li class="slider1">
+        <div>
+        <h3>오렌지</h3>
+        <p>네이블, 발렌시아에서 카라카라와 블러드 오렌지까지,
+        <br>모든 썬키스트 오렌지는 선명한 색상과 달콤하고
+        <br>풍부한 과즙과 맛이 입안에서 터질듯 합니다.<br></p>
+        <img src="images/orange.png" class="fruit" alt="오렌지">
+        <a href="item(orange).html" class="sliderBox">더 자세히 보기</a>
+        </div>
+      </li>
+      <li class="slider2">
+        <div>
+        <h3>레몬</h3>
+        <p>상쾌한 꽃향기와 뚜렷한 시큼한 맛으로 레몬은
+        <br>전 세계에서 사랑받고 있습니다. 짭짜름하고
+        <br>달콤한 요리를 하는데 환상적인 재료이기도 하지만,
+        <br>미용과 가사 용도로도 많이 사용됩니다.</p>
+        <img src="images/lemon.png" class="fruit" alt="레몬">
+        <a href="item(lemon).html" class="sliderBox">더 자세히 보기</a>
+        </div>
+      </li>
+      <li class="slider3">
+        <div>
+        <h3>라임</h3>
+        <p>독특한 소나무과 꽃 같은 풍미와 톡쏘는 향을 가진 라임은,
+        <br>세계 각지의 수많은 고급요리의 주요 재료입니다.
+        <br>감귤류 중에서 제일 산도가 높은 라임은 마리네이드와 제빵에서부터
+        <br>수프와 음료에 이르기까지 폭넓게 요리에 사용됩니다.</p>
+        <img src="images/rime.png" class="fruit" alt="라임">
+        <a href="item(rime).html" class="sliderBox">더 자세히 보기</a>
+        </div>
+      </li>
+      <li class="slider4">
+        <div>
+        <h3>자몽</h3>
+        <p>맛있는 과즙과 함께 입안에서 터지는 독특한 새콤한 맛을
+        <br>지닌 자몽은 영양소가 풍부하며 다양한 요리에 재료로도 쓰입니다.<br><br></p>
+        <img src="images/grapefruit.png" class="fruit" alt="자몽">
+        <a href="item(grapefruit).html" class="sliderBox">더 자세히 보기</a>
+        </div>
+      </li>
+      <li class="slider5">
+        <div>
+        <h3>탄제린 및 탄젤로</h3>
+        <p>늦가을부터 늦봄까지 구할 수 있으며, 썬키스트 탄제린과 탄젤로는
+        <br>즐길 수 있는 기간이 비교적 짧은 감귤류입니다.
+        <br>쉽게 벗길 수 있는 껍질과 독특한 향과 맛은
+        <br>이 과일을 매우 특별한 과일로 만듭니다.</p>
+        <img src="images/TangerineTangelo.png" class="fruit" alt="탄제린 및 탄젤로">
+        <a href="item(tangerine).html" class="sliderBox">더 자세히 보기</a>
+        </div>
+      </li>
+      <li class="slider6">
+        <div>
+        <h3>만다린</h3>
+        <p>달콤하고, 씨가 없으며, 쉽게 껍질을 벗길 수 있는 썬키스트 만다린은
+        <br>손쉽게 간식으로 즐길 수 있으며, 요리의 재료로도 좋습니다.
+        <br>비타민C를 풍부하게 함유하고 있으며, 이 조그마한 감귤류의 보석은
+        <br>영양성분이 정말 풍부합니다.</p>
+        <img src="images/mandarin.png" class="fruit" alt="만다린">
+        <a href="item(mandarin).html" class="sliderBox">더 자세히 보기</a>
+        </div>
+      </li>
+    </ul>
+    <div id="btnDir">
+    <button class="prev"></button>
+    <button class="next"></button>
+    </div>
+    <div id="btnNum">
+    <a class="active"></a>
+    <a></a>
+    <a></a>
+    <a></a>
+    <a></a>
+    <a></a>
+    </div>
+  </div>
+  </section>
+    <!-- main -->
+    <main>
+        <section id="main">
+          <div>
+          <h2>농장에서 온 신선함</h2>
+          <h3>sunkist 가족 농장에서 당신의 식탁으로</h3>
+          <img src="images/group.png" alt="감귤류">
+          <span>햇살 가득한 캘리포니아와 애리조나의 전역에 있는 수천명의 감귤 재배 농장들을 회원으로
+          <br>확장하고 있는 썬키스트는 비영리 협동조합으로서 120년 역사동안 이어온 가치는 가족 경영 농장,
+          <br>전통적인 재배 기법, 친환경적 자원사용 관리, 그리고 혁신에 대한 헌신 등으로 나타냅니다.</span>
+          </div>
+        </section>
+        <section id="recipe">
+          <div>
+            <h2>썬키스트 레시피</h2>
+            <h3>다양각색의 디저트, 집에서도 충분히 만들수 있습니다</h3>
+            <ul>
+              <li><a href="#">오렌지 초콜릿 칩 머핀</a></li>
+              <li><a href="#">그레인 프리 레몬 바</a></li>
+              <li><a href="#">시트러스 파워 스무디</a></li>
+              <li><a href="#">시트러스 와인 쿨러</a></li>
+              <li><a href="#">자몽 빙수</a></li>
+              <li><a href="#">레몬 크림 소스와 가지 미트볼</a></li>
+              <li><a href="#">레몬 두부 치킨 수프</a></li>
+              <li><a href="#">발렌시아 오렌지 도넛</a></li>
+              <li><a href="#">발렌시아 오렌지 팝시클</a></li>
+            </ul>
+            <button class="prevRecipe"></button>
+            <button class="nextRecipe"></button>
+            <a href="#" class="box">더 자세히 보기</a>
+            </div>
+        </section>
+        <section id="healthLife">
+          <div>
+            <h2>건강한 생활</h2>
+            <h3>다양한 용도로 활용 가능한 놀라운 시트러스의 변신을 활용해보세요!</h3>
+            <ul>
+              <li class="health">
+                <a href="#"></a>
+                <dl>
+                <dt>Health</dt>
+                <dd>시트러스의 다양한 효능을 알아보세요. </dd>
+                </dl>
+              </li>
+              <li class="beauty">
+                <a href="#"></a>
+                  <dl>
+                    <dt>Beauty</dt>
+                    <dd>시트러스를 활용한 셀프 뷰티케어로<br>
+                        맑고 생기있는 피부를 만들어보세요. </dd>
+                  </dl>
+
+              </li>
+              <li class="home">
+                <a href="#"></a>
+                  <dl>
+                    <dt>Home</dt>
+                    <dd>집안 곳곳 청소에 시트러스를 활용해보세요.</dd>
+                  </dl>
+              </li>
+            </ul>
+            <a href="#" class="box">더 자세히 보기</a>
+          </div>
+        </section>
+        <section id="storyBg">
+          <div id="storyBg2">
+            <div class="story">
+              <h2>썬키스트 이야기</h2>
+              <h3>다채로운 120년 역사와 유산,<br>썬키스트 이야기를 들어보세요.</h3>
+              <a href="sunkistStory.html" class="box">더 자세히 보기</a>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <!-- footer -->
+    <footer id="footerWrap">
+      <div id="footer_box">
+      <img src="images/sunkist_footer_logo.png" alt="밑 로고">
+      <div class="lang">
+      <ul>
+        <li><a href="#">Korea</a></li>
+        <li><a href="#">English</a></li>
+        <li><a href="#">French Canada</a></li>
+        <li><a href="#">Japan</a></li>
+        <li><a href="#">China</a></li>
+        <li><a href="#">Hong Kong</a></li>
+      </ul>
+    </div>
+      <div class="address">
+      <ul>
+        <li><a href="#"><span>개인정보처리방침</span></a></li>
+        <li><a href="#">이메일무단수집거부</a></li>
+        <li><a href="#">이용약관</a></li>
+      </ul>
+    </div>
+      <div class="sns">
+        <ul>
+          <li><a href="https://www.facebook.com/sunkistkorea" name="페이스북"></a></li>
+          <li><a href="https://twitter.com/Sunkist" name="트위터"></a></li>
+          <li><a href="https://www.instagram.com/sunkistcitruskr/?hl=ko" name="인스타그램"></a></li>
+          <li><a href="https://www.youtube.com/user/SUNKIST" name="유튜브"></a></li>
+        </ul>
+      </div>
+    </div>
+    </footer>
+  </body>
+</html>

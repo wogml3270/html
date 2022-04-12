@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+body > .SunkistStory > video{
+  width: 100%;
+  z-index:1;
+}
+body > .SunkistStory > h1{
+  position: absolute;
+  top:17rem;
+  left:25rem;
+  font-size: 70px;
+  color:#fff;
+  text-shadow:3px 3px 5px #000;
+  /* opacity:0; */
+  z-index:2;
+}
+body > .SunkistStory > h3.subtitle{
+  position: absolute;
+  top:25rem;
+  left:25rem;
+  font-size: 50px;
+  color: #f0b022;
+  text-shadow:3px 3px 3px #000;
+  z-index: 2;
+}
+body > .SunkistStory > p{
+  position: absolute;
+  top:32.5rem;
+  left:25rem;
+  color: #ccc;
+  font-size:20px;
+  line-height:40px;
+  text-shadow:3px 3px 3px #000;
+  z-index: 2;
+}
